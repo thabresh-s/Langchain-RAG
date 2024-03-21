@@ -1,4 +1,4 @@
-# Langchain RAG Tutorial
+# Langchain RAG Implementation
 
 Install dependencies.
 
